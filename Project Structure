@@ -1,0 +1,18 @@
+CardioSpike/
+│
+├── data/
+│   ├── 210.dat
+│   ├── 210.hea
+│   └── 210.atr
+│
+├── neuromorphic/
+│   ├── load_ecg.py
+│   ├── visualize_ecg.py
+│   ├── load_annotations.py
+│   ├── spike_encoder.py
+│   ├── stdp.py
+│   └── snn.py
+│
+├── backend/
+├── frontend/
+└── requirements.txt
